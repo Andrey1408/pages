@@ -1,0 +1,5 @@
+[[headers]]
+  for = "https://63715ba9a988d6161b7c7cc4--dashing-babka-3c8fad.netlify.app/"
+  [headers.values]
+    Access-Control-Allow-Origin: *
+    X-Author: itmo338961

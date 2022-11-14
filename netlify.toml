@@ -4,9 +4,9 @@
   functions = "netlify/functions"
   publish = "public"
 
-[[headers]]
-  Access-Control-Allow-Origin: *
-  X-Author: itmo338961
+  [[headers]]
+    Access-Control-Allow-Origin: *
+    X-Author: itmo338961
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
